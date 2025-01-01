@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FranHUB2021
+- 👋 Hi, I’m @FrancheGames
 - 👀 I’m interested in Game Making
 - 🌱 I’m currently learning Nothing lol
-- 💞️ I’m looking to collaborate a game developer for construct 3
+- 💞️ I’m looking to collaborate a game developer for construct 2
 - 📫 How to reach me what is this?
 
 <!---
